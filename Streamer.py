@@ -1,6 +1,6 @@
 import socket
 
-path = 'D:/FFOutput/bin/Image{}.jpg'
+path = 'D:/FFOutput/binary/Frame{}'
 
 server = socket.socket(type=socket.SOCK_DGRAM)
 server.bind(('0.0.0.0', 2233))

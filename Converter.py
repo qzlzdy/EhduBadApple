@@ -1,7 +1,7 @@
 from PIL import Image
 
 inpath = 'D:/FFOutput/320x240/Image{}.jpg'
-outpath = 'D:/FFOutput/bin/Image{}.jpg'
+outpath = 'D:/FFOutput/binary/Frame{}'
 
 for i in range(5478):
     im = Image.open(inpath.format(i + 1))
