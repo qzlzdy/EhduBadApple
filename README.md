@@ -2,6 +2,8 @@
 
 有像素的地方，就有BAD APPLE！
 
+Bilibili视频链接：[BV1Ua411x7R2](https://www.bilibili.com/video/BV1Ua411x7R2/)
+
 ## Overview
 
 用的是杭电的板子，用到的组件有：
